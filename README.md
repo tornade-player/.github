@@ -1,4 +1,3 @@
-# .github
 # Tornade
 
 **Tornade** is a modern, fast, and lightweight audio player designed for power users and audiophiles. It focuses on performance, simplicity, and full control over your local music library.
